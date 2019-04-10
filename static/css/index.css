@@ -903,7 +903,8 @@
         line-height: 26px;
     }
     #main .logo .inner .logo-wrap img {
-        max-height:160px;
+        height:160px;
+        width: 100%;
     }
     #main .media .inner img {
         display:block;
