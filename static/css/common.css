@@ -84,9 +84,9 @@ a,button {
 }
 
 #header .inner a {
-    display: inline-block
+    display: inline-block;
 }
-
+#header .menu .menu-item a{ display: block;}
 #header .header-logo {
     display: inline-block;
     height: 26.36px;
@@ -112,7 +112,7 @@ a,button {
     display: inline-block;
     position: relative;
     color: #fff;
-    font-size: 12px;
+    font-size: 14px;
     height: 32px;
     line-height: 32px;
     vertical-align: middle;

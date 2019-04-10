@@ -87,7 +87,7 @@
     padding-top:170px
 }
 #main .products h1 {
-    font-size:68px;
+    font-size:32px;
     font-weight:900;
     line-height:88px;
     text-align:center;
@@ -132,7 +132,7 @@
     height:100%
 }
 #main .products .product-cards .card .prd-title {
-    font-size:30px;
+    font-size:24px;
     font-weight:900;
     line-height:36px;
     padding-bottom:10px;
@@ -198,7 +198,7 @@
      padding-top:120px
  }
 #main .extension .inner h1 {
-    font-size:68px;
+    font-size:32px;
     font-weight:700;
     color:#fff;
     margin-bottom:58px;
@@ -285,7 +285,7 @@
 }
 #main .comparison .inner .inline h3 {
     color:#fff;
-    font-size:44px;
+    font-size:32px;
     line-height:69px;
     margin-bottom:64px
 }
@@ -307,9 +307,9 @@
 }
 #main .security h2{
     text-align: center;
-    font-size: 24px;
+    font-size: 32px;
     color: #fff;
-    padding: 40px 0;
+    padding: 68px 0 40px;
 }
 #main .security .inner .inline.vertical {
     display:inline-block;
@@ -370,7 +370,7 @@
 #main .usecases .inner .usecase>h3 {
     width:480px;
     color:#fff;
-    font-size:48px;
+    font-size:32px;
     margin-bottom:28px;
     height:80px
 }
@@ -756,7 +756,8 @@
         width:100%;
         height:auto;
         font-size:24px;
-        line-height:48px
+        line-height:48px;
+        text-align: center;
     }
     #main .usecases .inner .usecase>img {
         width:100%;
@@ -855,7 +856,7 @@
         width:288px
     }
     #main section.extension .inner,#main section.products .inner {
-        padding:0 50px
+        padding:0 24px
     }
     #main .landing {
         max-height:617px;
@@ -881,7 +882,7 @@
         font-size: 24px;
     }
     #main .extension {
-        padding-top:88px
+        padding-top:68px
     }
     #main .extension .inner .button-wrap .button {
         width:100%;
@@ -911,7 +912,7 @@
         margin:0 auto 32px auto
     }
     #main .products {
-        padding-top:48px
+        padding-top:68px
     }
     #main .extension .inner h1,#main .products h1 {
         font-size:30px;
